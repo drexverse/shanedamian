@@ -1,5 +1,4 @@
 # shanedamian
-# Personal Website
 
 A personal website showcasing selected projects, ideas, and visual work.
 
